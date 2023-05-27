@@ -1,0 +1,44 @@
+.title{
+    position: relative;
+    top: 50px;
+    left: 260px;
+    width:600px;
+}
+.question1 { font-size: 300%;
+    font-weight: 600;
+    position: relative;
+    top:100px;
+    left:150px}
+.img1{
+    position: relative;
+    top: 100px;
+    left: 100px;
+    height:700px;
+}
+.img2{
+    position: relative;
+    top: 100px;
+    left: 150px;
+    height:700px;
+}
+.img3{
+    position: relative;
+    top: 200px;
+    left: 50px;
+    height:700px;
+}
+.img4{
+    position: relative;
+    top: 200px;
+    left: 100px;
+    height:700px;
+}
+.button1{
+    position: relative;
+    height: 100px;
+    width:350px;
+    left: 350px;
+    top: 250px;
+    font-weight: 700;
+    font-size: 200%;
+}

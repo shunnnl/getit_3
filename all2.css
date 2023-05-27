@@ -1,0 +1,29 @@
+.question1 { font-size: 400%;
+    font-weight: 600;
+    position: relative;
+    top:160px;
+    left:400px;}
+.button1{
+        position: relative;
+        height: 60px;
+        width:200px;
+        left: -500px;
+        top: 700px;
+        font-weight: 700;
+        font-size: 140%;
+}
+.button2{
+        position: relative;
+        height: 60px;
+        width:200px;
+        left: 570px;
+        top: 640px;
+        font-weight: 700;
+        font-size: 140%;
+}
+.analyze{
+    position: relative;
+    height: 1200px;
+    left: 200px;
+    top: 300px;
+}

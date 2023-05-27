@@ -1,0 +1,57 @@
+.question1 { font-size: 400%;
+font-weight: 600;
+position: relative;
+top:160px;
+left:170px;}
+.question2 { font-size: 270%; 
+    font-weight: 700;
+    position: relative;
+    top:300px;
+    left:280px;}
+.question3{
+    font-size: 270%;
+    text-align:left; 
+    font-weight: 700;
+    position: relative;
+    top:380px;
+    left:280px;
+}
+.answer1{
+    position: relative;
+    height: 40px;
+    left: 650px;
+    top: 290px;
+    font-weight: 700;
+    font-size: 140%;
+}
+.button1{
+    position: relative;
+    height: 60px;
+    width:200px;
+    left: 40px;
+    top: 900px;
+    font-weight: 700;
+    font-size: 140%;
+}
+.button2{
+    position: relative;
+    height: 60px;
+    width:200px;
+    left: 100px;
+    top: 900px;
+    font-weight: 700;
+    font-size: 140%;
+}
+.a{font-size: 120%; 
+    font-weight: 700;
+    position: relative;
+    top:215px;
+    left:780px;
+}
+.b{
+    font-size: 120%; 
+    font-weight: 700;
+    position: relative;
+    top:215px;
+    left:850px;
+}

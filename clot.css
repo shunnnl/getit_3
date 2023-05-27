@@ -1,0 +1,82 @@
+.title{
+    position: relative;
+    top: 50px;
+    left: 200px;
+    width:600px;
+}
+.button1{
+    position: relative;
+    height: 60px;
+    width:150px;
+    left: -500px;
+    top: 100px;
+    font-weight: 700;
+    font-size: 140%;
+}
+.button2{
+    position: relative;
+    height: 60px;
+    width:150px;
+    left: -500px;
+    top: 100px;
+    font-weight: 700;
+    font-size: 140%;
+}
+.button3{
+    position: relative;
+    height: 60px;
+    width:150px;
+    left: 415px;
+    top: -622px;
+    font-weight: 700;
+    font-size: 140%;
+}
+.button4{
+    position: relative;
+    height: 60px;
+    width:150px;
+    left: 415px;
+    top: -622px;
+    font-weight: 700;
+    font-size: 140%;
+}
+.button5{
+    position: relative;
+    height: 60px;
+    width:150px;
+    left: 415px;
+    top: -622px;
+    font-weight: 700;
+    font-size: 140%;
+}
+
+.img1{
+    position: relative;
+    top: 150px;
+    left: -420px;
+    height:700px;
+}
+.img2{
+    position: relative;
+    top: -570px;
+    left: 480px;
+    height:700px;
+}
+.img3{
+    position: relative;
+    top: 200px;
+    left: -420px;
+    height:700px;
+}
+.img4{
+    position: relative;
+    top: -500px;
+    left: 480px;
+    height:700px;
+}
+.img5{
+    position: relative;
+    top: 200px;
+    left: -420px;
+    width:450px;
+}
